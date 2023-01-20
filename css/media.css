@@ -1,7 +1,7 @@
 @media screen and (max-width: 1800px) {
  .item, .con-item, .pro-item {margin-left: 14rem;}
  .content-wrapper .container p {max-width: 600px;}
- .content-wrapper .container.about-con {margin-left: 10rem;}
+ _.content-wrapper .container.about-con {margin-left: 2rem;}
 
 }
 
